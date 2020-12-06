@@ -1,4 +1,4 @@
-#include <SFML\Graphics.http> //+ 
+#include <SFML/Graphics.http> //+ 
 #include "header.h" //+
 #include "cenario.h"
 
